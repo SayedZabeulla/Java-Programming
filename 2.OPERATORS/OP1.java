@@ -23,7 +23,7 @@
 // The required area of carpet is 450 sqm
 
 import java.util.Scanner;
-public class Question1 {
+public class OP1 {
     public static void main(String[] args){
         Scanner sc =new Scanner(System.in);
         int length =sc.nextInt();

@@ -13,7 +13,7 @@
 
 import java.util.Scanner;
 
-public class Question6 {
+public class IO6 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         String str =sc.nextLine();

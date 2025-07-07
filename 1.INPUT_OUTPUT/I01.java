@@ -8,7 +8,7 @@
 // There’s no need for any input from the user; the system automatically prints the greeting when launched.
 
 // Sample Output Hello, World!
-public class Question1 {
+public class I01 {
     public static void main(String[] args) {
         System.out.println("Hello!! Welcome to java Progarmming");
     }

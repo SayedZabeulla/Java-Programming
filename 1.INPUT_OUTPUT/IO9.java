@@ -20,7 +20,7 @@
 
 import java.util.Scanner;
 
-public class Question9 {
+public class IO9 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         double n1 =sc.nextDouble();

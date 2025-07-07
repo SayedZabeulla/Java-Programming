@@ -23,7 +23,7 @@
 // The number of times "t" occurs in the string is 2. Therefore, 2 is returned as the output.
 
 import java.util.Scanner;
-public class Question1 {
+public class STR1 {
     public static void main(String[] args){
         Scanner sc =new Scanner(System.in);
         String str =sc.nextLine();
@@ -31,7 +31,7 @@ public class Question1 {
         char ch =sc.next().charAt(0);
         int c =0;
         for (int i =0; i<str.length(); i++){
-            char check =str.charAt(0);
+            char check =str.charAt(i);
             if (check == ch){
                 c++;
             }

@@ -8,7 +8,7 @@
 // making the wait for coffee more entertaining.
 
 // Sample Output I need coffee too!! I need coffee too!! I need coffee too!!
-public class Question2 {
+public class IO2 {
     public static void main(String[] args) {
         System.out.print("I need coffee too!! ");
         System.out.print("I need coffee too!! ");
