@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "2.OPERATORS",
         "1.INPUT_OUTPUT",
-        "2.OPERATORS"
+        "9.STRINGS"
     ]
 }
