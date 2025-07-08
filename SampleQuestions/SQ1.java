@@ -28,7 +28,7 @@ public class SQ1 {
                 }
             }
         }
-        System.out.println(count-1);
+        System.out.println(count);
         sc.close();
     }
 }
