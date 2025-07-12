@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "SampleQuestions",
         "9.STRINGS",
         "2.OPERATORS",
         "1.INPUT_OUTPUT",
-        "SampleQuestions"
+        "7.ARRAYS_1D"
     ],
     "java.compiler.warnings.unused.locals": "ignore"
 }
