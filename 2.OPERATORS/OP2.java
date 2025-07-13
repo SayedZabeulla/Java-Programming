@@ -29,7 +29,7 @@ public class OP2 {
         int r =sc.nextInt();
         int h =sc.nextInt();
         double pi =3.14;
-        double res =3.14*r*r*h;
+        double res =pi*r*r*h;
         double fr =Math.ceil(res);
         System.out.printf("%.0f\n",fr);
         sc.close();
